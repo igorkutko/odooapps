@@ -18,6 +18,9 @@ Extension: Partner
 
     'demo': [
     ],
+    'images': [
+        'static/description/banner.png',
+    ],
     'license': 'LGPL-3',
 
 }
